@@ -13,30 +13,30 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I’m Zoha Saif Ansari, a passionate Full-Stack Web Developer who turns ideas into high-performance, 
+              scalable digital experiences. Over time, I’ve explored multiple technologies and discovered my passion
+               for building high-performance systems with intuitive user experiences. I develop modern, secure, 
+               and scalable websites using HTML, CSS, JavaScript, React.js, Next.js, Firebase, PHP, MySQL, and C++.
               <br />
               <br />
               I’m proficient in
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  JavaScript, Next.js, React.js, Node.js{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+               and I enjoy working across both backend and frontend stacks.
               <br />
               <br />
-              My key areas of interest include developing
+             I focus strongly on speed optimization, clean architecture, and website security. I also enjoy 
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  integrating AI-powered chatbots{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              to enhance user engagement and automation.
               <br />
               <br />
               Whenever possible, I love building projects with
@@ -45,6 +45,9 @@ function Home2() {
                 <b className="purple">React.js</b> and{" "}
                 <b className="purple">Next.js</b>.
               </i>
+              <br />
+              
+              If you’re looking for creativity, performance, and precision, you’re in the right place.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
